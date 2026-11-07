@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.aliakbarrme.englishcoach",
+        "sha256_cert_fingerprints": ["C1:EF:B0:C9:EF:E8:8B:28:8C:5E:17:CE:50:D5:7F:FA:E2:C8:FC:FE:39:E1:83:D9:D2:63:43:A3:27:81:DF:91"]
+      }
+    }]
