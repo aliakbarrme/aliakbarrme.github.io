@@ -1,8 +1,15 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.aliakbarrme.englishcoach",
-        "sha256_cert_fingerprints": ["C1:EF:B0:C9:EF:E8:8B:28:8C:5E:17:CE:50:D5:7F:FA:E2:C8:FC:FE:39:E1:83:D9:D2:63:43:A3:27:81:DF:91"]
-      }
-    }]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.aliakbarrme.englishcoach",
+      "sha256_cert_fingerprints": [
+        "C1:EF:B0:C9:EF:E8:8B:28:8C:5E:17:CE:50:D5:7F:FA:E2:C8:FC:FE:39:E1:83:D9:D2:63:43:A3:27:81:DF:91",
+        "B1:69:6B:2E:BF:43:C3:6D:69:A9:63:26:EF:E3:31:3A:21:0F:A7:4E:73:26:7F:27:14:7F:7E:F9:6F:07:D1:F5"
+      ]
+    }
+  }
+]
